@@ -1,0 +1,9 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.radio-group {
+    background-color: #6c757d; 
+    padding: .4rem 0 .4rem .7rem;     
+    width: 70%;
+}
